@@ -4,7 +4,7 @@ function App() {
   return (
    <>
     <div className='bg-black text-white text-3xl'>
-    Hello, Yazid!
+    Hello, Yazid from dev branch!
     </div>
    </>
   );
