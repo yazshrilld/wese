@@ -11,6 +11,14 @@ const TextInputField = () => {
          id="depositAccountNumber"
          placeholder="Account Number"
       />
+
+      <TextInput 
+         className="border w-[20rem]"
+         name="depositAccountBalance"
+         label="Account Balance"
+         id="depositAccountBalance"
+         placeholder="Account Balance"
+      />
     </>
   )
 }
